@@ -1,0 +1,13 @@
+version: '3'
+services:
+  nano-communicator:
+    build: .
+    image: nano-communicator:latest
+    container_name: nano-communicator-service
+    ports: 
+      - "8081:8081"
+    volumes: 
+      - "/home/logs:/application/logs"
+
+
+# Excute --> sudo docker-compose up -d

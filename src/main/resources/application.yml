@@ -1,0 +1,12 @@
+server:
+  port: 8081
+
+spring:
+   application: nano-communicator-service
+   
+nano-node:
+   host: 172.21.0.1
+   port: 7076
+   
+geo:
+   database: GeoLite2-City.mmdb

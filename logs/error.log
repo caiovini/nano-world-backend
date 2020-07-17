@@ -1,0 +1,57 @@
+2020-07-09 17:40:41,931 ERROR error [http-nio-8081-exec-3] Bad account number.
+2020-07-09 20:49:27,612 ERROR error [http-nio-8081-exec-2] Connection refused (Connection refused)
+2020-07-09 20:49:35,155 ERROR error [http-nio-8081-exec-4] Connection refused (Connection refused)
+2020-07-09 20:49:38,818 ERROR error [http-nio-8081-exec-5] Connection refused (Connection refused)
+2020-07-09 20:49:56,496 ERROR error [http-nio-8081-exec-8] Connection refused (Connection refused)
+2020-07-10 00:08:37,920 ERROR error [http-nio-8081-exec-1] The address 192.145.47.45 is not in the database.
+2020-07-10 00:11:18,771 ERROR error [http-nio-8081-exec-1] The address 192.145.47.45 is not in the database.
+2020-07-10 00:11:18,872 ERROR error [http-nio-8081-exec-1] The address 45.129.183.236 is not in the database.
+2020-07-10 00:11:18,948 ERROR error [http-nio-8081-exec-1] The address 213.109.160.124 is not in the database.
+2020-07-10 00:11:19,005 ERROR error [http-nio-8081-exec-1] The address 2.56.98.216 is not in the database.
+2020-07-10 00:11:19,007 ERROR error [http-nio-8081-exec-1] The address 45.129.180.39 is not in the database.
+2020-07-10 00:11:19,081 ERROR error [http-nio-8081-exec-1] The address 152.89.106.86 is not in the database.
+2020-07-10 00:18:37,695 ERROR error [http-nio-8081-exec-1] The address 192.145.47.45 is not in the database.
+2020-07-10 00:18:37,797 ERROR error [http-nio-8081-exec-1] The address 45.129.183.236 is not in the database.
+2020-07-10 00:18:37,927 ERROR error [http-nio-8081-exec-1] The address 213.109.160.124 is not in the database.
+2020-07-10 00:18:38,010 ERROR error [http-nio-8081-exec-1] The address 2.56.98.216 is not in the database.
+2020-07-10 00:18:38,011 ERROR error [http-nio-8081-exec-1] The address 45.129.180.39 is not in the database.
+2020-07-10 00:18:38,089 ERROR error [http-nio-8081-exec-1] The address 152.89.106.86 is not in the database.
+2020-07-10 14:53:10,275 ERROR error [http-nio-8081-exec-3] The address 192.145.47.45 is not in the database.
+2020-07-10 14:53:10,353 ERROR error [http-nio-8081-exec-3] The address 45.129.183.236 is not in the database.
+2020-07-10 14:53:10,453 ERROR error [http-nio-8081-exec-3] The address 213.109.160.124 is not in the database.
+2020-07-10 14:53:10,557 ERROR error [http-nio-8081-exec-3] The address 152.89.106.86 is not in the database.
+2020-07-10 14:53:10,574 ERROR error [http-nio-8081-exec-3] The address 2.56.98.216 is not in the database.
+2020-07-10 14:53:10,578 ERROR error [http-nio-8081-exec-3] The address 45.129.180.39 is not in the database.
+2020-07-10 22:48:39,952 ERROR error [http-nio-8081-exec-2] Unexpected end of file from server
+2020-07-10 22:50:05,905 ERROR error [http-nio-8081-exec-2] Connection refused (Connection refused)
+2020-07-10 22:56:08,933 ERROR error [http-nio-8081-exec-1] The address 192.145.47.45 is not in the database.
+2020-07-10 22:56:09,032 ERROR error [http-nio-8081-exec-1] The address 45.129.183.236 is not in the database.
+2020-07-10 22:56:09,182 ERROR error [http-nio-8081-exec-1] The address 213.109.160.124 is not in the database.
+2020-07-10 22:56:09,295 ERROR error [http-nio-8081-exec-1] The address 152.89.106.86 is not in the database.
+2020-07-10 22:56:09,319 ERROR error [http-nio-8081-exec-1] The address 2.56.98.216 is not in the database.
+2020-07-10 22:56:09,325 ERROR error [http-nio-8081-exec-1] The address 45.129.180.39 is not in the database.
+2020-07-10 22:57:56,821 ERROR error [http-nio-8081-exec-3] The address 192.145.47.45 is not in the database.
+2020-07-10 22:57:56,953 ERROR error [http-nio-8081-exec-3] The address 45.129.183.236 is not in the database.
+2020-07-10 22:57:57,111 ERROR error [http-nio-8081-exec-3] The address 213.109.160.124 is not in the database.
+2020-07-10 22:57:57,324 ERROR error [http-nio-8081-exec-3] The address 152.89.106.86 is not in the database.
+2020-07-10 22:57:57,351 ERROR error [http-nio-8081-exec-3] The address 2.56.98.216 is not in the database.
+2020-07-10 22:57:57,364 ERROR error [http-nio-8081-exec-3] The address 45.129.180.39 is not in the database.
+2020-07-11 12:55:40,410 ERROR error [http-nio-8081-exec-2] {"timestamp":"2020-07-11T15:37:51.100+00:00","status":400,"error":"Bad Request","message":"","path":"/callBack"}
+2020-07-11 14:19:46,090 ERROR error [http-nio-8081-exec-10] The address 192.145.47.45 is not in the database.
+2020-07-11 14:19:46,146 ERROR error [http-nio-8081-exec-10] The address 45.129.183.236 is not in the database.
+2020-07-11 14:19:46,195 ERROR error [http-nio-8081-exec-10] The address 213.109.160.124 is not in the database.
+2020-07-11 14:19:46,240 ERROR error [http-nio-8081-exec-10] The address 152.89.106.86 is not in the database.
+2020-07-11 14:19:46,250 ERROR error [http-nio-8081-exec-10] The address 2.56.98.216 is not in the database.
+2020-07-11 14:19:46,254 ERROR error [http-nio-8081-exec-10] The address 45.129.180.39 is not in the database.
+2020-07-11 16:14:55,396 ERROR error [http-nio-8081-exec-4] The address 192.145.47.45 is not in the database.
+2020-07-11 16:14:55,441 ERROR error [http-nio-8081-exec-4] The address 45.129.183.236 is not in the database.
+2020-07-11 16:14:55,488 ERROR error [http-nio-8081-exec-4] The address 213.109.160.124 is not in the database.
+2020-07-11 16:14:55,527 ERROR error [http-nio-8081-exec-4] The address 152.89.106.86 is not in the database.
+2020-07-11 16:14:55,537 ERROR error [http-nio-8081-exec-4] The address 2.56.98.216 is not in the database.
+2020-07-11 16:14:55,539 ERROR error [http-nio-8081-exec-4] The address 45.129.180.39 is not in the database.
+2020-07-11 22:11:38,649 ERROR error [http-nio-8081-exec-2] The address 192.145.47.45 is not in the database.
+2020-07-11 22:11:38,725 ERROR error [http-nio-8081-exec-2] The address 45.129.183.236 is not in the database.
+2020-07-11 22:11:38,809 ERROR error [http-nio-8081-exec-2] The address 213.109.160.124 is not in the database.
+2020-07-11 22:11:38,857 ERROR error [http-nio-8081-exec-2] The address 152.89.106.86 is not in the database.
+2020-07-11 22:11:38,864 ERROR error [http-nio-8081-exec-2] The address 2.56.98.216 is not in the database.
+2020-07-11 22:11:38,867 ERROR error [http-nio-8081-exec-2] The address 45.129.180.39 is not in the database.
